@@ -12,6 +12,8 @@
 - `script4.sh`: Ejecuta todo aumaticamente
 
 ## Uso
+Sintetizar distintos sumadores aproximados para una xc7a100tcsg324-1 (Nexys A7)
+mediante el uso de scripting para automatización.
 
 ### 1. Clonar el repositorio del proyecto
 ```bash
