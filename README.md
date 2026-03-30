@@ -42,7 +42,7 @@ Esto descarga los 11 sumadores aproximados y los guarda en `hdl/`
 ./script3.sh
 ```
 
-### 6. O ejecutar todo de una sola vez con script4
+### 6. Ejecutar todo de una sola vez con script4
 ```bash
 ./script4.sh
 ```
