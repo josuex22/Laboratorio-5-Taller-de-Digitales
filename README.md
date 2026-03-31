@@ -1,4 +1,4 @@
-# Laboratorio-5-Taller-de-Digitales
+# Laboratorio 5 Taller de Digitales
 
 ## Integrantes
 - Arce Cruz Josué 
