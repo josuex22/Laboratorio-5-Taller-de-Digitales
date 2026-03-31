@@ -12,6 +12,8 @@
 - `script4.sh`: Ejecuta todo aumaticamente
 
 ## Uso
+Sintetizar distintos sumadores aproximados para una xc7a100tcsg324-1 (Nexys A7)
+mediante el uso de scripting para automatización.
 
 ### 1. Clonar el repositorio del proyecto
 ```bash
@@ -40,7 +42,7 @@ Esto descarga los 11 sumadores aproximados y los guarda en `hdl/`
 ./script3.sh
 ```
 
-### 6. O ejecutar todo de una sola vez con script4
+### 6. Ejecutar todo de una sola vez con script4
 ```bash
 ./script4.sh
 ```
