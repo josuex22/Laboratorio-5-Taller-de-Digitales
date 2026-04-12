@@ -46,5 +46,6 @@ Esto descarga los 11 sumadores aproximados y los guarda en `hdl/`
 ```bash
 ./script4.sh
 ```
-
+## Uso de IA
+Para la elaboración de este laboratorio se hizo uso frecuente de Inteligencia artificial, principalmente para el uso de sintaxis debido a el poco entendimiento y manejo que se tiene del scripting. Sin embargo, se entiende el flujo de los scripts y la función que implementan cada uno de ellos, por otro lado, se nota la mejoría que se obtiene al no tener que estar sintetizando modulo por modulo y buscando errores, por lo cual queda entendido la gran importancia del uso del scripting para la automatización. 
 
