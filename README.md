@@ -54,6 +54,6 @@ Los script1, script2, script3 y script4 fueron implementados en Bash, los cuales
 
 El synth.tcl se hizo en TCL debido a que es el que usan las herramientas de EDA, en este caso para Vivado. 
 
-Se tuvo una gran ayuda por parte de la IA, ya que la dificultad de la sintaxis de Bash dío bastantes problemas para su entendimmiento e implementación. 
+Se tuvo una gran ayuda por parte de la IA, ya que la dificultad de la sintaxis de Bash dío bastantes problemas para su entendimiento e implementación. 
 
 
